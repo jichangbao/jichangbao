@@ -15,3 +15,5 @@
 | 🤖 ChatGPT 机场推荐 | [查看](https://jichangbao.github.io/guide/chatgpt-airport.html) |
 | 🎟️ 机场优惠码汇总 | [查看](https://jichangbao.github.io/guide/airport-coupons.html) |
 | 🐱 Clash 机场推荐与教程 | [查看](https://jichangbao.github.io/guide/clash-tutorial.html) |
+
+优质机场推荐：https://youzhijichang.blog/
