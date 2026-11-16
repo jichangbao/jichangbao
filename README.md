@@ -17,3 +17,5 @@
 | 🐱 Clash 机场推荐与教程 | [查看](https://jichangbao.github.io/guide/clash-tutorial.html) |
 
 优质机场推荐：https://youzhijichang.blog/
+
+优质梯子推荐：https://youzhitizi.blog/
