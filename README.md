@@ -23,3 +23,5 @@
 梯子推荐：https://findtizi.blog/
 
 好用机场推荐：https://haoyongjichang.best/
+
+好用梯子推荐：https://haoyongtizi.best/
