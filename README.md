@@ -25,3 +25,5 @@
 好用机场推荐：https://haoyongjichang.best/
 
 好用梯子推荐：https://haoyongtizi.best/
+
+Clash机场推荐：https://clashjichang.co/
