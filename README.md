@@ -32,3 +32,4 @@ Clash梯子推荐：https://clashtizi.co/
 
 机场GitHub：https://jichanggithub.co
 
+梯子GitHub：https://tizigithub.co
